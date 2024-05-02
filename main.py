@@ -286,7 +286,7 @@ async def unknown(_, message: Message):
 
 
 
-@papp.on_message(filters.incoming & ~filters.command(["start", "info", "devs"] & ~filters.text))
+@papp.on_message((filters.incoming & ~filters.command(["start", "info", "devs"])) & ~filters.text)
 def unknown(_, message: Message):
     pass
    # message.reply_text("Sorry, I didn't understand that command.")
