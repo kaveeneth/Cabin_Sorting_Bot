@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "cabin-sorting-bot",
+    "private_key_id": "863883ee775523ed948d13be11a52f12d38b7043",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC16K/3MYIcu56q\n+A/eurfmVajPZmL/tUDxdd16BdHwJIViSBtGMVniFp5O9ZlpPs16c3SVGFWGXR/2\nPIP8lkYWFyoyeWzZGXTFQb25SeWFsAGpJxogAXPV1KRG5cXVd2JUWb92QFQmnMeU\n6h91aBRft3ygfQZQzEBzmsdtrBuroqcrvPQ0w1iSeTui28ARg5t9sh22k4nMEChT\niCrpBKReG3jxuwzcQOmSSbCqLs2wx2qK2aA//yph/EwbCApr8O+Cg8L4PaNIalwC\n/B1iKPl3TvHddK7XhhxqNQutuO/IBvA62l+lybZAerdf8i20BWD6Leq2H1xT014Y\nbdiSEvv7AgMBAAECggEATKSj0z5ISEvin71RjnHUPtdzfyLv7jYTjUiwTpO6Lvhs\nPIsN9safTMtj2vfOsdG0qHWRtqngivKcn1ZC8/7qu6755/dSHayEjwHSaomQi4Gr\nSXZAoyCJihwENRzlfDnHM6v2p9+VtQkUbBEyvPhjsSpxd3sF2LAeLbcWdIZxyB/R\nmW0U2z73dX8oX46kmxZTwLaKU8+UIpfibcn51OzjCpVF3TnnAijmIsMNsOgvNGpl\nY913zg5pnlqYz4ZO7E4TuN2hBr1EDxF1Eq90ZGdgBsH9zb4aYNrsrT5TFTo8mJSf\n46+H+4Z6evkb+ybAK6ly55CsrnWXmCI53FXaSzC7JQKBgQD5Va/u2aEn+OYuS5Y8\nB9HcXFL0CEFJjjt5p/oyU4jfJOXbNK0/3232YPyIAOqoCT6BWqP/5chRJ3D0urCm\ndDa7Sl/yUXfH4j2svEL96wq7Vp4iB5YNJHDM6FG2mOJsHMBE/Wo0V1LSAUcDFb3r\ncmtSPJKe0SRa6Sh74mzUqCBgBwKBgQC6xZMHQOg18e/SEYBSPYVPt+oGoyexMfV5\nZXvnsVm+2+3p2aE6hWvr4qqQ9R+/WdF/Iz/s0OuTCMPzEztkXrPBcVznOluaIuTA\nx2W5M3f3C2F3+s6MuCNKi7X3LF19fdOmsIpXENzPNzf6i1iHfU6Vxmd7dqtuPn8p\nL477wTzfbQKBgQDAvD/3PjuZDonAF6XWWaUb1jI5eXgeR9gpvnNlG7Wd6IPV4u5Z\nhXkXDvmmmC7MHfk3PL2xPgqO0RI722RaB1OXi3KHefpBhN1v/Uc7yMjO77HlVD/l\ngNnBS4R+xcehEsh9i/bg5u+abmpaNCBPNG9JbpFYOwsDS2CEAw9lg2EjWQKBgFAf\nBY2tCHBr0ydYnqWpApFKIjiqsRJQji9/m4GvEQLRMeSJmaKTLdLJL8ZzgSUDEN3r\nbzbWANjYf8a8z1OlVJN9YA9Jd5ZNtbgFUdv6+lGeLjfb/dNcAret62eXPpvg6HSv\ncwkakL7Lv1XZhSbKWHXj4OyT4cKvSLmQT1Qsd0KZAoGARPTIP2X4qbP/unxGCBZr\nkZLTmIO2ia6LzauQsiDJ8YbDkZsmj1a9CYwIcIIhxMd7kr9epEoBzjga+bDGSmJs\nIavpb2qrTxhFPle9DhP8aqiFGRGmPSrNtlUxfZRat+tKqLRs77zECwQ66mrRP4c5\nlwT1RLjKPA1ewbTl+95hjP4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-nl5t3@cabin-sorting-bot.iam.gserviceaccount.com",
+    "client_id": "104932670011237722335",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nl5t3%40cabin-sorting-bot.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
